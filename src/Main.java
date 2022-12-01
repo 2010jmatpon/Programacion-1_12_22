@@ -20,7 +20,7 @@ public class Main {
         Instituto instituto = new Instituto();
 
         System.out.println("Instituto");
-        System.out.println("Nombre :" + instituto.getNombre());
+        System.out.println("Nombre:" + instituto.getNombre());
         System.out.println("Curso: " + instituto.getCurso());
         System.out.println("Grupo: " + instituto.getGrupo());
     }
