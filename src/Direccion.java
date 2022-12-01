@@ -6,7 +6,7 @@ public class Direccion {
     private String pais;
 
     Direccion(){
-        calle = "San Sebastián ";
+        calle = "San Sebastián";
         ciudad = "Ubrique";
         codPostal = 11600;
         pais = "España";

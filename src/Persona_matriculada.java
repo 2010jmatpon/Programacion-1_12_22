@@ -6,7 +6,7 @@ public class Persona_matriculada {
     Persona_matriculada () {
         nombre = "Juan";
         numTelefono = 643878848;
-        email = "ejemplo@gmail.com ";
+        email = "ejemplo@gmail.com";
     }
 
     public String getNombre(){return nombre;}

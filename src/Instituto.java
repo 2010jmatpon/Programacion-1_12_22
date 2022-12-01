@@ -5,7 +5,7 @@ public class Instituto {
 
     Instituto(){
         nombre = "Ies Los Remedios";
-        curso = "1º E.S.O. ";
+        curso = "1º E.S.O.";
         grupo = "B";
     }
     public String getNombre(){return nombre;}
